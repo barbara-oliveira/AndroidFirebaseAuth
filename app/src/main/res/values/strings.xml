@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidFirebaseAuth</string>
+    <string name="facebook_application_id" translatable="false">187856299267683</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb187856299267683</string>
+</resources>
